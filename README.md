@@ -1,7 +1,7 @@
-#Offer RESTFUL service
+# Offer RESTFUL service
 This is a simple REST api for an offer. It provides implementation of GET/POST/PUT/DELETE only so far. 
 
-##Tools and Technologies used
+## Tools and Technologies used
 It is based on spring boot, gradle and Java 8. It also uses in memory database i.e. you will loose the data on restart or shutdown of the application.
 
 ## How to use the application
